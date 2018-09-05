@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['updateborder',['updateBorder',['../class_aspose_1_1_words_1_1_words_api.html#ac8a4da5f29ffcd66c8f07eb56c79725f',1,'Aspose::Words::WordsApi']]],
+  ['updateborderasync',['updateBorderAsync',['../class_aspose_1_1_words_1_1_words_api.html#afac6b5163969cfdc72812cd3e509dcd3',1,'Aspose::Words::WordsApi']]],
+  ['updateborderasyncwithhttpinfo',['updateBorderAsyncWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#aefe7ab8f5c49ba183a76612b33ace268',1,'Aspose::Words::WordsApi']]],
+  ['updateborderrequest',['updateBorderRequest',['../class_aspose_1_1_words_1_1_words_api.html#a832ce98e3e3bb760dbc45fd6ef6f4c46',1,'Aspose::Words::WordsApi']]],
+  ['updateborderwithhttpinfo',['updateBorderWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#aa655f71fcdd921f7f935be750b94111e',1,'Aspose::Words::WordsApi']]],
+  ['updatesectionpagesetup',['updateSectionPageSetup',['../class_aspose_1_1_words_1_1_words_api.html#a4e32f5a16c981a88b81544a176b9cbf4',1,'Aspose::Words::WordsApi']]],
+  ['updatesectionpagesetupasync',['updateSectionPageSetupAsync',['../class_aspose_1_1_words_1_1_words_api.html#a2b57787594fc8ab9d8f3b782972ca39f',1,'Aspose::Words::WordsApi']]],
+  ['updatesectionpagesetupasyncwithhttpinfo',['updateSectionPageSetupAsyncWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#aa12d3303dd5defff264203c9420ea7b6',1,'Aspose::Words::WordsApi']]],
+  ['updatesectionpagesetuprequest',['updateSectionPageSetupRequest',['../class_aspose_1_1_words_1_1_words_api.html#a01d64672c14b1412c4cd5c2c2fba61c3',1,'Aspose::Words::WordsApi']]],
+  ['updatesectionpagesetupwithhttpinfo',['updateSectionPageSetupWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#a0353ab6f35904d6cc62779a3826c9948',1,'Aspose::Words::WordsApi']]],
+  ['updatetablecellformat',['updateTableCellFormat',['../class_aspose_1_1_words_1_1_words_api.html#a6aedacf68e7c050f0f8a58c2ff97eb37',1,'Aspose::Words::WordsApi']]],
+  ['updatetablecellformatasync',['updateTableCellFormatAsync',['../class_aspose_1_1_words_1_1_words_api.html#a663b257329691e13daa78281baeaf7ec',1,'Aspose::Words::WordsApi']]],
+  ['updatetablecellformatasyncwithhttpinfo',['updateTableCellFormatAsyncWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#aa19207398fe2ef851f49d12b28292b5e',1,'Aspose::Words::WordsApi']]],
+  ['updatetablecellformatrequest',['updateTableCellFormatRequest',['../class_aspose_1_1_words_1_1_words_api.html#aade63c3d5e8fd8927e7c351b831345cf',1,'Aspose::Words::WordsApi']]],
+  ['updatetablecellformatwithhttpinfo',['updateTableCellFormatWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#af350e16a217634cffa375049e74e12ca',1,'Aspose::Words::WordsApi']]],
+  ['updatetableproperties',['updateTableProperties',['../class_aspose_1_1_words_1_1_words_api.html#acdf2791a75acc226092cdada9eb380bb',1,'Aspose::Words::WordsApi']]],
+  ['updatetablepropertiesasync',['updateTablePropertiesAsync',['../class_aspose_1_1_words_1_1_words_api.html#a67ac87e4c4fabd9c88b8ce45fa743db6',1,'Aspose::Words::WordsApi']]],
+  ['updatetablepropertiesasyncwithhttpinfo',['updateTablePropertiesAsyncWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#a80185d2ab3e0a12ff98b331995b58fd4',1,'Aspose::Words::WordsApi']]],
+  ['updatetablepropertiesrequest',['updateTablePropertiesRequest',['../class_aspose_1_1_words_1_1_words_api.html#a28edce2467a93722edbc0ca9f5fdf8d9',1,'Aspose::Words::WordsApi']]],
+  ['updatetablepropertieswithhttpinfo',['updateTablePropertiesWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#af0d333d46c12896d3f05207a1793ffc8',1,'Aspose::Words::WordsApi']]],
+  ['updatetablerowformat',['updateTableRowFormat',['../class_aspose_1_1_words_1_1_words_api.html#ac7fee3d0025c04464f87bfa447a18207',1,'Aspose::Words::WordsApi']]],
+  ['updatetablerowformatasync',['updateTableRowFormatAsync',['../class_aspose_1_1_words_1_1_words_api.html#a6198f30f640cceb760ab1118c31c9051',1,'Aspose::Words::WordsApi']]],
+  ['updatetablerowformatasyncwithhttpinfo',['updateTableRowFormatAsyncWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#a699821caaefac12c1ea0824f56e63cf6',1,'Aspose::Words::WordsApi']]],
+  ['updatetablerowformatrequest',['updateTableRowFormatRequest',['../class_aspose_1_1_words_1_1_words_api.html#a8ce1c2497b3a65141ed67739e630711e',1,'Aspose::Words::WordsApi']]],
+  ['updatetablerowformatwithhttpinfo',['updateTableRowFormatWithHttpInfo',['../class_aspose_1_1_words_1_1_words_api.html#af066bda2098f45232cd41030f5207b11',1,'Aspose::Words::WordsApi']]]
+];

@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['relative_5fhorizontal_5fposition_5f_5fdefault',['RELATIVE_HORIZONTAL_POSITION__DEFAULT',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a444d8d6791b006004738e255b8607230',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5fcharacter',['RELATIVE_HORIZONTAL_POSITION_CHARACTER',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a517b6433d37edde5002163e86c263b73',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5fcolumn',['RELATIVE_HORIZONTAL_POSITION_COLUMN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#ab9dc3ce4fbdf0b39446bf024e064e1af',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5finside_5fmargin',['RELATIVE_HORIZONTAL_POSITION_INSIDE_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#ab6ccf522ffc3a06e5303b8246eb30338',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5fleft_5fmargin',['RELATIVE_HORIZONTAL_POSITION_LEFT_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#ad778e315bd7d22eb23f2a36d2c55fc4d',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5fmargin',['RELATIVE_HORIZONTAL_POSITION_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a7499612acc2f9a2299b47a3d691ec0c7',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5foutside_5fmargin',['RELATIVE_HORIZONTAL_POSITION_OUTSIDE_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a2cbb7c1d4232c35781e0ad092a899bbe',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5fpage',['RELATIVE_HORIZONTAL_POSITION_PAGE',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#adb676da4495603d75a6bf387effbd3bb',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fhorizontal_5fposition_5fright_5fmargin',['RELATIVE_HORIZONTAL_POSITION_RIGHT_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a5a8e275e22e439b2eea8b633291d03c6',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5fbottom_5fmargin',['RELATIVE_VERTICAL_POSITION_BOTTOM_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a0b80f35940cebb1eb1bfe4bd9fc7e170',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5finside_5fmargin',['RELATIVE_VERTICAL_POSITION_INSIDE_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a4719e5511c0ddf65e3871ec3ed6a0bd9',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5fline',['RELATIVE_VERTICAL_POSITION_LINE',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a5b91277e29676564116633aa2653a1c8',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5fmargin',['RELATIVE_VERTICAL_POSITION_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#ae999b68ab956d9b42dcf5e723ac4cc71',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5foutside_5fmargin',['RELATIVE_VERTICAL_POSITION_OUTSIDE_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#abe2276b009169f286fdddfce8af0ad96',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5fpage',['RELATIVE_VERTICAL_POSITION_PAGE',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a82dc8280fe8e7e8d3ca93cc61678ef43',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5fparagraph',['RELATIVE_VERTICAL_POSITION_PARAGRAPH',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a25e35e48818d57a8fdb5139568f6707c',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5ftable_5fdefault',['RELATIVE_VERTICAL_POSITION_TABLE_DEFAULT',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#a6f6ed2d3e7320fcd8402087dbc8774cd',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5ftext_5fframe_5fdefault',['RELATIVE_VERTICAL_POSITION_TEXT_FRAME_DEFAULT',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#ac25ebeab19f3dc14f27f8d9a5c63980b',1,'Aspose::Words::Model::DrawingObject']]],
+  ['relative_5fvertical_5fposition_5ftop_5fmargin',['RELATIVE_VERTICAL_POSITION_TOP_MARGIN',['../class_aspose_1_1_words_1_1_model_1_1_drawing_object.html#ab66e2fe5bd2b00cd72a92c667e8688eb',1,'Aspose::Words::Model::DrawingObject']]]
+];

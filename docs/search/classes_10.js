@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['saveoptionsdata',['SaveOptionsData',['../class_aspose_1_1_words_1_1_model_1_1_save_options_data.html',1,'Aspose::Words::Model']]],
+  ['saveresponse',['SaveResponse',['../class_aspose_1_1_words_1_1_model_1_1_save_response.html',1,'Aspose::Words::Model']]],
+  ['saveresult',['SaveResult',['../class_aspose_1_1_words_1_1_model_1_1_save_result.html',1,'Aspose::Words::Model']]],
+  ['searchrequest',['SearchRequest',['../class_aspose_1_1_words_1_1_model_1_1_requests_1_1_search_request.html',1,'Aspose::Words::Model::Requests']]],
+  ['searchresponse',['SearchResponse',['../class_aspose_1_1_words_1_1_model_1_1_search_response.html',1,'Aspose::Words::Model']]],
+  ['searchresult',['SearchResult',['../class_aspose_1_1_words_1_1_model_1_1_search_result.html',1,'Aspose::Words::Model']]],
+  ['searchresultscollection',['SearchResultsCollection',['../class_aspose_1_1_words_1_1_model_1_1_search_results_collection.html',1,'Aspose::Words::Model']]],
+  ['section',['Section',['../class_aspose_1_1_words_1_1_model_1_1_section.html',1,'Aspose::Words::Model']]],
+  ['sectionlink',['SectionLink',['../class_aspose_1_1_words_1_1_model_1_1_section_link.html',1,'Aspose::Words::Model']]],
+  ['sectionlinkcollection',['SectionLinkCollection',['../class_aspose_1_1_words_1_1_model_1_1_section_link_collection.html',1,'Aspose::Words::Model']]],
+  ['sectionlinkcollectionresponse',['SectionLinkCollectionResponse',['../class_aspose_1_1_words_1_1_model_1_1_section_link_collection_response.html',1,'Aspose::Words::Model']]],
+  ['sectionpagesetupresponse',['SectionPageSetupResponse',['../class_aspose_1_1_words_1_1_model_1_1_section_page_setup_response.html',1,'Aspose::Words::Model']]],
+  ['sectionresponse',['SectionResponse',['../class_aspose_1_1_words_1_1_model_1_1_section_response.html',1,'Aspose::Words::Model']]],
+  ['splitdocumentresponse',['SplitDocumentResponse',['../class_aspose_1_1_words_1_1_model_1_1_split_document_response.html',1,'Aspose::Words::Model']]],
+  ['splitdocumentresult',['SplitDocumentResult',['../class_aspose_1_1_words_1_1_model_1_1_split_document_result.html',1,'Aspose::Words::Model']]],
+  ['statdataresponse',['StatDataResponse',['../class_aspose_1_1_words_1_1_model_1_1_stat_data_response.html',1,'Aspose::Words::Model']]],
+  ['storychildnodes',['StoryChildNodes',['../class_aspose_1_1_words_1_1_model_1_1_story_child_nodes.html',1,'Aspose::Words::Model']]],
+  ['stringformatdata',['StringFormatData',['../class_aspose_1_1_words_1_1_model_1_1_string_format_data.html',1,'Aspose::Words::Model']]],
+  ['svgsaveoptionsdata',['SvgSaveOptionsData',['../class_aspose_1_1_words_1_1_model_1_1_svg_save_options_data.html',1,'Aspose::Words::Model']]]
+];

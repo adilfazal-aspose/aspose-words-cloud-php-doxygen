@@ -1,0 +1,25 @@
+var class_aspose_1_1_words_1_1_model_1_1_text_save_options_data =
+[
+    [ "__construct", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a1782381c34a158d42933ce2225c94791", null ],
+    [ "__toString", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a7516ca30af0db3cdbf9a7739b48ce91d", null ],
+    [ "getEncoding", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a515b2653f040b0c8a4ed093878232943", null ],
+    [ "getExportHeadersFooters", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#ad88f2a3e9d81981bbce50d919c00c5ba", null ],
+    [ "getForcePageBreaks", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#aee2f589ddbc1ac5999aafaed4c955dc7", null ],
+    [ "getModelName", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a7cd2e13f50fbc61e846e5980f02371f8", null ],
+    [ "getParagraphBreak", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a2262f753c0ad85397509a41fa0dafbbe", null ],
+    [ "getPreserveTableLayout", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a85a8a80ef7f6cfb25efd533eb1df21c6", null ],
+    [ "getSimplifyListLabels", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a842b35d288af28597178a8663da2bb61", null ],
+    [ "listInvalidProperties", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a4f5d7a9b526647e20099f4a8b8cabdc2", null ],
+    [ "offsetExists", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a24ff257ec0c2221bc6fd7b1b4388e26e", null ],
+    [ "offsetGet", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a59aee6e89465b48f014699f41b521f87", null ],
+    [ "offsetSet", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#ac6bde6b1eb50eb5377e91771fe46b7a3", null ],
+    [ "offsetUnset", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a2411227ea7118b13495de9839fd4b563", null ],
+    [ "setEncoding", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#a8742b6ed0b5341136f00d42ec3864fd6", null ],
+    [ "setExportHeadersFooters", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#ac6d65633a8d6dcb24d974681cd171556", null ],
+    [ "setForcePageBreaks", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#aaab5dca2cc071f6969a599974c3af5ee", null ],
+    [ "setParagraphBreak", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#ae1098d3554a4c3a3d57fd24e9a9e8c93", null ],
+    [ "setPreserveTableLayout", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#ad06d7f73ba8037c6951be82588024dae", null ],
+    [ "setSimplifyListLabels", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#aaf1f55841ab75f80f17d5f19479f82f2", null ],
+    [ "valid", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#abb9f0d6adf1eb9b3b55712056861a247", null ],
+    [ "DISCRIMINATOR", "class_aspose_1_1_words_1_1_model_1_1_text_save_options_data.html#aed3be3a0e8ce43ca5aa50b2e9a17b701", null ]
+];

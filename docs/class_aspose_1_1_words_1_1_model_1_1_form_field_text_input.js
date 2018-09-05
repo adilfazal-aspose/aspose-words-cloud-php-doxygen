@@ -1,0 +1,28 @@
+var class_aspose_1_1_words_1_1_model_1_1_form_field_text_input =
+[
+    [ "__construct", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a1782381c34a158d42933ce2225c94791", null ],
+    [ "__toString", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a7516ca30af0db3cdbf9a7739b48ce91d", null ],
+    [ "getMaxLength", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#ab22dd3407fbb5a6a5f71cc70d4a1a565", null ],
+    [ "getModelName", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a7cd2e13f50fbc61e846e5980f02371f8", null ],
+    [ "getTextInputDefault", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a0c8815911d7f8831257db571b9095ab9", null ],
+    [ "getTextInputFormat", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a3fe3e02e3796a5f9e4708e4e2e516183", null ],
+    [ "getTextInputType", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a6e0aabf7825b6eea8e09c5819c6a8dcc", null ],
+    [ "getTextInputTypeAllowableValues", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#ad9cc693d99a40b422bc1fbb5719269fb", null ],
+    [ "listInvalidProperties", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a4f5d7a9b526647e20099f4a8b8cabdc2", null ],
+    [ "offsetExists", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a24ff257ec0c2221bc6fd7b1b4388e26e", null ],
+    [ "offsetGet", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a59aee6e89465b48f014699f41b521f87", null ],
+    [ "offsetSet", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#ac6bde6b1eb50eb5377e91771fe46b7a3", null ],
+    [ "offsetUnset", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a2411227ea7118b13495de9839fd4b563", null ],
+    [ "setMaxLength", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a1a0b752360d57b047fb676566c2c5bf5", null ],
+    [ "setTextInputDefault", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a27b9dd326f14dc9cca21e4b03889bcc5", null ],
+    [ "setTextInputFormat", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a5506d1de5c78477445ff3a806f2747da", null ],
+    [ "setTextInputType", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a60326706c4382b181359b09fb32e2f50", null ],
+    [ "valid", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#abb9f0d6adf1eb9b3b55712056861a247", null ],
+    [ "DISCRIMINATOR", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#aed3be3a0e8ce43ca5aa50b2e9a17b701", null ],
+    [ "TEXT_INPUT_TYPE_CALCULATED", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a34d17137afe0fcfa3c8c105442b53d1d", null ],
+    [ "TEXT_INPUT_TYPE_CURRENT_DATE", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a6691ce152aae1677417fd0126b09b5dd", null ],
+    [ "TEXT_INPUT_TYPE_CURRENT_TIME", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a9f7e1f67f9c87ca86a9313c3e8bc0cca", null ],
+    [ "TEXT_INPUT_TYPE_DATE", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a52aae08d34d78caed59199082c111737", null ],
+    [ "TEXT_INPUT_TYPE_NUMBER", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a57be3a5f95569ce409547bed25938f64", null ],
+    [ "TEXT_INPUT_TYPE_REGULAR", "class_aspose_1_1_words_1_1_model_1_1_form_field_text_input.html#a6460a21a071d25f8308c542958cb8186", null ]
+];

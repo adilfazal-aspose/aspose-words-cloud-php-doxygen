@@ -1,0 +1,26 @@
+var class_aspose_1_1_words_1_1_model_1_1_footnote =
+[
+    [ "__construct", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a1782381c34a158d42933ce2225c94791", null ],
+    [ "__toString", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a7516ca30af0db3cdbf9a7739b48ce91d", null ],
+    [ "getContent", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a58e43f09a06ce4e29b192c4e17ce7915", null ],
+    [ "getFootnoteType", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#aa4673522a62ef983c4f96b2681159473", null ],
+    [ "getFootnoteTypeAllowableValues", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#ac77f80b6aa02b578bebe32f30f8e329c", null ],
+    [ "getModelName", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a7cd2e13f50fbc61e846e5980f02371f8", null ],
+    [ "getPosition", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a107d1509bfad2c1b7507aac4e81be889", null ],
+    [ "getReferenceMark", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a139f487d03f749aa53bbf0cfd1f9bd68", null ],
+    [ "getText", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a8a2999b1d846c0a7bc77187e28facd99", null ],
+    [ "listInvalidProperties", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a4f5d7a9b526647e20099f4a8b8cabdc2", null ],
+    [ "offsetExists", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a24ff257ec0c2221bc6fd7b1b4388e26e", null ],
+    [ "offsetGet", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a59aee6e89465b48f014699f41b521f87", null ],
+    [ "offsetSet", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#ac6bde6b1eb50eb5377e91771fe46b7a3", null ],
+    [ "offsetUnset", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a2411227ea7118b13495de9839fd4b563", null ],
+    [ "setContent", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a04a5eddb7c3abc7bf31fa25b58f046bf", null ],
+    [ "setFootnoteType", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a808dc1fadb0736c47f422030f9ab440e", null ],
+    [ "setPosition", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a0b190cce0a78c99360df60d7b197c3c3", null ],
+    [ "setReferenceMark", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a84af0420afa15be00b7533f2daa86a6c", null ],
+    [ "setText", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#aed98453b92e9e7e961179dfff24c4a3a", null ],
+    [ "valid", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#abb9f0d6adf1eb9b3b55712056861a247", null ],
+    [ "DISCRIMINATOR", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#aed3be3a0e8ce43ca5aa50b2e9a17b701", null ],
+    [ "FOOTNOTE_TYPE_ENDNOTE", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a3492655ab6cda69c4c56ba9d7e88ec97", null ],
+    [ "FOOTNOTE_TYPE_FOOTNOTE", "class_aspose_1_1_words_1_1_model_1_1_footnote.html#a27b44fd032d262a464c485161fb7c1fe", null ]
+];

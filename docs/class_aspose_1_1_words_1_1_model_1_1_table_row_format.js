@@ -1,0 +1,25 @@
+var class_aspose_1_1_words_1_1_model_1_1_table_row_format =
+[
+    [ "__construct", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a1782381c34a158d42933ce2225c94791", null ],
+    [ "__toString", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a7516ca30af0db3cdbf9a7739b48ce91d", null ],
+    [ "getAllowBreakAcrossPages", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a22f727ab0c390791ba2170fae7033442", null ],
+    [ "getHeadingFormat", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a8ed1080a92eac577a8b69ea8fe107776", null ],
+    [ "getHeight", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#aa725283ffc599b3f6563cada4cbeb2c7", null ],
+    [ "getHeightRule", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#aea4f032eda74eaceece02f4baf4b7d20", null ],
+    [ "getHeightRuleAllowableValues", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#ae44b77809515dc6c1322858ba10d07e6", null ],
+    [ "getModelName", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a7cd2e13f50fbc61e846e5980f02371f8", null ],
+    [ "listInvalidProperties", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a4f5d7a9b526647e20099f4a8b8cabdc2", null ],
+    [ "offsetExists", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a24ff257ec0c2221bc6fd7b1b4388e26e", null ],
+    [ "offsetGet", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a59aee6e89465b48f014699f41b521f87", null ],
+    [ "offsetSet", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#ac6bde6b1eb50eb5377e91771fe46b7a3", null ],
+    [ "offsetUnset", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a2411227ea7118b13495de9839fd4b563", null ],
+    [ "setAllowBreakAcrossPages", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a1443443829a1c28ee2b86eab445b0f9d", null ],
+    [ "setHeadingFormat", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#ad848a36dfabb006f8e943bb24ce095ed", null ],
+    [ "setHeight", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a3b5739cc2b9bb1c260893bbb3228e87a", null ],
+    [ "setHeightRule", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#ad65254386ffd2999c53b76eab0fb0d92", null ],
+    [ "valid", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#abb9f0d6adf1eb9b3b55712056861a247", null ],
+    [ "DISCRIMINATOR", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#aed3be3a0e8ce43ca5aa50b2e9a17b701", null ],
+    [ "HEIGHT_RULE_AT_LEAST", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a4102f031240d7ab501561b9fce646642", null ],
+    [ "HEIGHT_RULE_AUTO", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a367c3c5fe499fdd80a7f3fecea787a6a", null ],
+    [ "HEIGHT_RULE_EXACTLY", "class_aspose_1_1_words_1_1_model_1_1_table_row_format.html#a1fe4c2ec6bcf9f955900bc51135f82c0", null ]
+];
